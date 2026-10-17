@@ -9,5 +9,12 @@
   "hours": "",
   "registration": "",
   "services": [],
-  "notes": "PENDENTE: confirmar domínio, WhatsApp, cidade, endereço, horários, formação, registro, lista de serviços, fotos e identidade oficial. O título público do Instagram confirma nome e descrição profissional. Não inferir serviços de cadastros empresariais."
+  "notes": "PENDENTE: WhatsApp, cidade, endereço, horários, registro e catálogo completo. Cliente identificou o retrato de Débora e informou Certificação Internacional em Microagulhamento Avançado; país e instituição não fornecidos. Fotografias de lábios fornecidas sem nome de técnica ou intervalo.",
+  "internationalCertification": {
+    "description": "Certificação Internacional em Microagulhamento Avançado",
+    "source": "Informação fornecida diretamente pelo cliente em 16/10/2026",
+    "institution": "",
+    "country": "",
+    "course": "Microagulhamento Avançado"
+  }
 }

@@ -1,5 +1,9 @@
 # Débora Burei — site institucional
 
+## Retrato, qualificação e estética labial
+
+O cliente identificou a foto `debora-burei.jpg` como Débora e informou diretamente “Certificação Internacional — Microagulhamento Avançado”. Essa informação foi publicada na apresentação e no schema Person/hasCredential; não se informa país, instituição, carga horária, registro ou titulação acadêmica. As imagens de lábios ficam em seção própria, sem atribuir técnica, durabilidade ou fase de cicatrização. Não são apresentadas como resultados de microagulhamento. Retrato 1440×1800, detalhe dos lábios 747×904 e comparativo 1440×1436, preservados sem regravação ou filtros. Todas podem ser abertas na resolução original.
+
 ## Atualização de fotografias
 
 Três fotos fornecidas pelo cliente em 16/10/2026 foram copiadas sem regravação para `public/images/`. Dimensões: 1440 × 1437, 1440 × 1436 e 1440 × 1436. Os arquivos são idênticos aos originais, verificados por SHA-256. São exibidos integralmente, sem filtros e com dimensões reservadas. Cada imagem pode ser aberta na resolução original; carregamento sob demanda abaixo da primeira dobra. Não há ampliação artificial para 4K. FPS não se aplica a fotografias.

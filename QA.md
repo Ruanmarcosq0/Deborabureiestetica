@@ -13,3 +13,6 @@
 ## Limites
 
 Não foram medidos Lighthouse ou Core Web Vitals de campo. Auditoria automática de acessibilidade não realizada; revisão cobriu semântica, foco, teclado, tamanho dos controles e adaptação de layout. Não houve teste real de envio de mensagem ao Instagram nem WhatsApp, pois não se deve enviar mensagens sem autorização e o telefone não foi confirmado. Bio, fotos e feed do Instagram exigiam login. Dados locais, credenciais e procedimentos permanecem pendentes. A integração Git está sendo verificada com um segundo commit após o primeiro deploy.
+
+## Atualização das fotos — 16/10/2026
+Três JPEGs publicados com bytes originais preservados (SHA-256 local e Git blob SHA conferidos). Dimensões naturais confirmadas no navegador: 1440×1437, 1440×1436 e 1440×1436. Galeria sem filtros; nenhuma rolagem horizontal nas larguras 320, 390, 430, 768 e 1440. Build e QA estrutural aprovados. Console sem erros durante a revisão de produção. Publicação automática pelo commit afecd025d951554ad922c0b65bb1273c01e87961.
