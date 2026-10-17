@@ -1,5 +1,7 @@
 # Débora Burei — site institucional
 
+SEO nacional e canais: metadados com temas de estética e microagulhamento, entidade da profissional conectada ao Instagram e mensagem do WhatsApp com destaque explícito ao site oficial. Regiões reais de atendimento preservadas. Plano editorial, sugestão de bio e saudação pronta do WhatsApp Business em SEO-NACIONAL-E-INSTAGRAM.md. Não foram ativadas respostas automáticas, modificada a conta Instagram ou garantidas posições de busca.
+
 Revisão de CTA: botões direcionam ao agendamento; textos corridos aprovados foram preservados. Regiões Ipiranga/São Paulo e Mogi das Cruzes, informadas pelo cliente, foram incluídas somente nos metadados e dados estruturados. Sem promessa de posição no Google.
 
 ## Texto reduzido e blocos sem foto
