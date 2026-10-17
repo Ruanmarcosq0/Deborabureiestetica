@@ -1,5 +1,9 @@
 # Débora Burei — site institucional
 
+## Apresentação única e atualização de estilos
+
+A apresentação da profissional fica somente na hero, com âncora `#inicio`. O bloco institucional repetido foi removido. Meta theme-color usa #f7f4ed e as antigas superfícies marrons foram substituídas pela variável de bege. O build gera CSS com hash do conteúdo no nome, para que cada alteração de estilo tenha uma URL nova. HTML de início e privacidade exige revalidação de cache.
+
 ## Hero e paleta bege
 
 A abertura destaca Débora e a Certificação Internacional em Microagulhamento Avançado informada pelo cliente. Superfícies usam o bege `#f7f4ed`, igual ao fundo original da abertura; texto e botões mantêm contraste escuro. O recorte `public/images/debora-burei-recorte.png` foi gerado com remoção de fundo e alpha real, 1122×1402 RGBA, sem compressão com perdas posterior. A fotografia original 1440×1800 segue preservada em `debora-burei.jpg`. O recorte por ferramenta generativa não equivale à preservação pixel a pixel do original e não representa resolução 4K. Sua finalidade é a composição da hero e da apresentação; as fotos de procedimentos permanecem intactas.
