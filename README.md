@@ -1,5 +1,9 @@
 # Débora Burei — site institucional
 
+## Hero e paleta bege
+
+A abertura destaca Débora e a Certificação Internacional em Microagulhamento Avançado informada pelo cliente. Superfícies usam o bege `#f7f4ed`, igual ao fundo original da abertura; texto e botões mantêm contraste escuro. O recorte `public/images/debora-burei-recorte.png` foi gerado com remoção de fundo e alpha real, 1122×1402 RGBA, sem compressão com perdas posterior. A fotografia original 1440×1800 segue preservada em `debora-burei.jpg`. O recorte por ferramenta generativa não equivale à preservação pixel a pixel do original e não representa resolução 4K. Sua finalidade é a composição da hero e da apresentação; as fotos de procedimentos permanecem intactas.
+
 ## Retrato, qualificação e estética labial
 
 O cliente identificou a foto `debora-burei.jpg` como Débora e informou diretamente “Certificação Internacional — Microagulhamento Avançado”. Essa informação foi publicada na apresentação e no schema Person/hasCredential; não se informa país, instituição, carga horária, registro ou titulação acadêmica. As imagens de lábios ficam em seção própria, sem atribuir técnica, durabilidade ou fase de cicatrização. Não são apresentadas como resultados de microagulhamento. Retrato 1440×1800, detalhe dos lábios 747×904 e comparativo 1440×1436, preservados sem regravação ou filtros. Todas podem ser abertas na resolução original.
