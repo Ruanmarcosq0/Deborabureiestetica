@@ -1,5 +1,7 @@
 # Débora Burei — site institucional
 
+Tema claro: meta estática darkreader-lock solicita que Dark Reader não aplique tema; color-scheme e fundos da marca têm prioridade explícita no CSS. HTML é servido com no-store e CSS com hash. Identificação desta revisão: bege-claro-20261017. Extensões ou configurações que deliberadamente ignoram as preferências do site podem exigir ajuste no próprio navegador; não é possível garantir controle sobre todas elas a partir do código da página.
+
 ## Tema claro obrigatório e retrato de proximidade
 
 O site declara `color-scheme: only light` no documento e no CSS, incluindo metadados, para evitar a conversão automática do bege #f7f4ed para modo escuro. O CSS segue com hash de conteúdo. Novo retrato abaixo da hero em #conversa: recorte gerado de 1125×1398 com alpha real, exportado em WebP lossless e carregado sob demanda. Original JPEG e recorte PNG preservados no workspace; edição generativa não é idêntica pixel a pixel ao original. O retrato acompanha a introdução existente, sem repetir a biografia.
