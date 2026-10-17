@@ -1,5 +1,9 @@
 # Débora Burei — site institucional
 
+## Tema claro obrigatório e retrato de proximidade
+
+O site declara `color-scheme: only light` no documento e no CSS, incluindo metadados, para evitar a conversão automática do bege #f7f4ed para modo escuro. O CSS segue com hash de conteúdo. Novo retrato abaixo da hero em #conversa: recorte gerado de 1125×1398 com alpha real, exportado em WebP lossless e carregado sob demanda. Original JPEG e recorte PNG preservados no workspace; edição generativa não é idêntica pixel a pixel ao original. O retrato acompanha a introdução existente, sem repetir a biografia.
+
 ## Apresentação única e atualização de estilos
 
 A apresentação da profissional fica somente na hero, com âncora `#inicio`. O bloco institucional repetido foi removido. Meta theme-color usa #f7f4ed e as antigas superfícies marrons foram substituídas pela variável de bege. O build gera CSS com hash do conteúdo no nome, para que cada alteração de estilo tenha uma URL nova. HTML de início e privacidade exige revalidação de cache.
