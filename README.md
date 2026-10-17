@@ -1,5 +1,11 @@
 # Débora Burei — site institucional
 
+## Atualização de fotografias
+
+Três fotos fornecidas pelo cliente em 16/10/2026 foram copiadas sem regravação para `public/images/`. Dimensões: 1440 × 1437, 1440 × 1436 e 1440 × 1436. Os arquivos são idênticos aos originais, verificados por SHA-256. São exibidos integralmente, sem filtros e com dimensões reservadas. Cada imagem pode ser aberta na resolução original; carregamento sob demanda abaixo da primeira dobra. Não há ampliação artificial para 4K. FPS não se aplica a fotografias.
+
+A seção de cuidados dá destaque à limpeza de pele solicitada pelo cliente. Não atribui a evolução das imagens a um procedimento isolado, nem informa número de sessões ou intervalo não fornecidos. Texto de conversão usa curiosidade, identificação e orientação para contato, sem escassez fabricada, depoimentos ou resultados garantidos.
+
 Site estático com HTML semântico, CSS responsivo e JavaScript progressivo. Node.js 20 ou superior. Sem dependências de execução, fontes externas, cookies ou rastreadores.
 
 ## Executar
