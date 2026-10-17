@@ -1,5 +1,9 @@
 # Revisão de SEO e canais de contato — 17/10/2026
 
+## Revisão de conversão e regiões
+
+CTAs de WhatsApp foram reforçados com intenção de agendamento e mensagens que solicitam disponibilidade, sem prometer horário confirmado. Títulos, parágrafos e legendas visíveis foram preservados. Cliente confirmou Ipiranga (São Paulo — SP) e Mogi das Cruzes — SP: regiões aplicadas apenas em title, description, llms.txt e workLocation do schema Person. WebPage conecta as entidades WebSite, Person e FAQPage. Não foram criados endereço, coordenadas, avaliações, páginas artificiais por cidade ou garantias de posição orgânica. Faltam endereços exatos e Perfil da Empresa no Google/Search Console para avançar na estratégia local e verificar indexação.
+
 ## Implementado e conferido
 
 - WhatsApp oficial fornecido pelo cliente: +55 11 94065-5939. Links diretos wa.me, sem redirecionador do Instagram, com mensagens contextualizadas por seção. Nenhuma mensagem foi enviada durante o teste.

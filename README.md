@@ -1,5 +1,7 @@
 # Débora Burei — site institucional
 
+Revisão de CTA: botões direcionam ao agendamento; textos corridos aprovados foram preservados. Regiões Ipiranga/São Paulo e Mogi das Cruzes, informadas pelo cliente, foram incluídas somente nos metadados e dados estruturados. Sem promessa de posição no Google.
+
 ## Texto reduzido e blocos sem foto
 
 Após aprovação do visual, o cliente pediu menos texto e remoção dos blocos sem foto. Foram removidos a faixa decorativa, os três passos e o contato como seção separada. FAQ compacta foi integrada à introdução com foto; WhatsApp, Instagram e telefone permanecem acessíveis. Mensagens e títulos foram encurtados, mantendo a certificação e os avisos essenciais das fotos. O bege intermediário #e9ddcc e todos os arquivos de imagem foram preservados.
