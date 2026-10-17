@@ -1,5 +1,9 @@
 # Débora Burei — site institucional
 
+## Texto reduzido e blocos sem foto
+
+Após aprovação do visual, o cliente pediu menos texto e remoção dos blocos sem foto. Foram removidos a faixa decorativa, os três passos e o contato como seção separada. FAQ compacta foi integrada à introdução com foto; WhatsApp, Instagram e telefone permanecem acessíveis. Mensagens e títulos foram encurtados, mantendo a certificação e os avisos essenciais das fotos. O bege intermediário #e9ddcc e todos os arquivos de imagem foram preservados.
+
 WhatsApp confirmado pelo cliente em 17/10/2026: +55 11 94065-5939. CTAs principais e botão flutuante levam ao WhatsApp com mensagens de contexto; Instagram segue disponível para conhecer procedimentos e publicações. Revisão técnica registrada em SEO-AUDIT.md.
 
 Tema claro: meta estática darkreader-lock solicita que Dark Reader não aplique tema; color-scheme e fundos da marca têm prioridade explícita no CSS. HTML é servido com no-store e CSS com hash. Identificação desta revisão: bege-claro-20261017. Extensões ou configurações que deliberadamente ignoram as preferências do site podem exigir ajuste no próprio navegador; não é possível garantir controle sobre todas elas a partir do código da página.
