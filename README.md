@@ -1,5 +1,7 @@
 # Débora Burei — site institucional
 
+WhatsApp confirmado pelo cliente em 17/10/2026: +55 11 94065-5939. CTAs principais e botão flutuante levam ao WhatsApp com mensagens de contexto; Instagram segue disponível para conhecer procedimentos e publicações. Revisão técnica registrada em SEO-AUDIT.md.
+
 Tema claro: meta estática darkreader-lock solicita que Dark Reader não aplique tema; color-scheme e fundos da marca têm prioridade explícita no CSS. HTML é servido com no-store e CSS com hash. Identificação desta revisão: bege-claro-20261017. Extensões ou configurações que deliberadamente ignoram as preferências do site podem exigir ajuste no próprio navegador; não é possível garantir controle sobre todas elas a partir do código da página.
 
 ## Tema claro obrigatório e retrato de proximidade
